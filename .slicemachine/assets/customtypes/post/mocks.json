@@ -1,0 +1,26 @@
+{
+  "uid": {
+    "__TYPE__": "UIDContent",
+    "value": "rather"
+  },
+  "title": {
+    "__TYPE__": "FieldContent",
+    "value": "excited",
+    "type": "Text"
+  },
+  "content": {
+    "__TYPE__": "StructuredTextContent",
+    "value": [
+      {
+        "type": "paragraph",
+        "content": {
+          "text": "Dolor velit commodo veniam sit adipisicing ipsum sit aliquip. Veniam labore dolor elit qui sint adipisicing proident anim magna ipsum adipisicing voluptate aute."
+        }
+      }
+    ]
+  },
+  "slices": {
+    "__TYPE__": "SliceContentType",
+    "value": []
+  }
+}
